@@ -1,0 +1,19 @@
+{
+  "movies": [
+    {
+      "name": "The Shawshank Redemption",
+      "poster_url": "https://example.com/posters/shawshank_redemption.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=6hB3S9bIaco"
+    },
+    {
+      "name": "The Godfather",
+      "poster_url": "https://example.com/posters/godfather.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=sY1S34973zA"
+    },
+    {
+      "name": "The Dark Knight",
+      "poster_url": "https://example.com/posters/dark_knight.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+    }
+  ]
+}
